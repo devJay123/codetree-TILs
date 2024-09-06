@@ -3,7 +3,7 @@ ab = input().split()
 a = int(ab[0])
 b = int(ab[1])
 
-if b > a:
+if a > b:
     a,b = b,a
 
 sum = 0
