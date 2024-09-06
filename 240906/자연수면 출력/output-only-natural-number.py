@@ -5,3 +5,5 @@ b = int(ab[1])
 if a >= 1:
     for _ in range(b):
         print(a, end='')
+else:
+    print(0)
